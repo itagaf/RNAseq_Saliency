@@ -22,7 +22,7 @@ Additionally, the program is designed to flexibly retrieve the dataset—it can 
 <img src="outputs/aug_mat_PCA.png" width="250" height="200">
 
 
-*PCA for samples from 3 different tissues without data augmentation (left) and with augmented sample size (right)*
+*PCA for samples from 3 different tissues without data augmentation (upper) and with augmented sample size (lower)*
 
 ## The Model
 The classification model was constructed as a four-layer dense neural network using PyTorch. To ensure the model could be deployed on a reasonably equipped laptop, its size had to be optimized, which required constraining the input dimensions. Instead of using the full gene expression profile for each sample, only genes with a known protein product were selected as input features for training and prediction (In future projects, larger input sets may be explored.) 
