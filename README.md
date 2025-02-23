@@ -18,8 +18,8 @@ The dataset used in this project consists of RNA-seq samples from 54 different h
 Additionally, the program is designed to flexibly retrieve the dataset—it can either download the data directly from the server or load it from a local directory using a designated flag. 
 
 <!-- ![Alt text](outputs/original_mat_PCA.png) -->
-<img src="outputs/original_mat_PCA.png" width="250" height="200">
-<img src="outputs/aug_mat_PCA.png" width="250" height="200">
+<img src="outputs/original_mat_PCA.png" width="370" height="300">
+<img src="outputs/aug_mat_PCA.png" width="370" height="300">
 
 
 *PCA for samples from 3 different tissues without data augmentation (upper) and with augmented sample size (lower)*
