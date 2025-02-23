@@ -123,7 +123,7 @@ Notably, the model performed less effectively on brain tissues compared to other
 <img src="outputs/confusion_matrix.png" width="600" height="550">
 
 
-*confusion matrix for the model used for this demo - notice mismatches mostly occur between closely realted tissue, namely between brain and esophgus tissues*
+*confusion matrix for the model used for this demo - notice mismatches mostly occur between closely realted tissues, namely between brain and esophgus tissues*
 
 
 ## Saliency
